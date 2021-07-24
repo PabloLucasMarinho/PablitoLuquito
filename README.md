@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo L. S. Marinho / @PablitoLuquito
-- 👀 I’m interested in Javascript, Python, Java, HTML & CSS
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Javascript, React Native, Python, HTML & CSS
+- 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on Web & Software Development
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/pablo-marinho-45753715b/
 
