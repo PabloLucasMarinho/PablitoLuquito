@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PablitoLuquito / Pablo Marinho
+- 👋 Hi, I’m Pablo L. S. Marinho / @PablitoLuquito
 - 👀 I’m interested in Javascript, Python, Java, HTML & CSS
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web & Software Development
