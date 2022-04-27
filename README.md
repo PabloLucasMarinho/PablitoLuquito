@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pablo L. S. Marinho / @PablitoLuquito
-- 👀 I’m interested in Javascript, React Native, Python, HTML & CSS
-- 🌱 I’m currently learning Javascript & React
-- 💞️ I’m looking to collaborate on Web & Software Development
+- 👋 Hi, I’m Pablo Lucas S. Marinho / @PablitoLuquito
+- 👀 I’m interested in HTML, CSS & Javascript
+- 🌱 I’m currently learning HTML, CSS & Javascript
+- 💞️ I’m looking to collaborate on FrontEnd Development
 
 <!---
 PablitoLuquito/PablitoLuquito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
