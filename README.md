@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo Lucas S. Marinho / @PablitoLuquito
-- 👀 I’m interested in HTML, CSS & Javascript
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 👀 I’m interested in HTML, CSS/Sass & Javascript
+- 🌱 I’m currently learning HTML, Sass & Javascript
 - 💞️ I’m looking to collaborate on FrontEnd Development
 
 <!---
